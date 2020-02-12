@@ -13,11 +13,10 @@ let content = {
  marginTop: '50px',
  padding:"30px"
 }
+
 let hrStyle = {
 padding:"10px",
 borderRadius:"5px",
-
-
 }
 
   return (
